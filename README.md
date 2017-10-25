@@ -13,37 +13,37 @@
 
 ## Aim and Objectives
 
-Develop an iOS application to:<br/>
-1) enable early-stage dementia patients to live alone at home <br>
-2) help people to look after early-stage dementia patients<br>
+Develop an iOS application to: <br>
+* enable early-stage dementia patients to live alone at home <br>
+* help people to look after early-stage dementia patients <br>
 
 
 ## Functionalities
 
-1) For caregivers:
-Check patient’sprogress remotely 
-Check his/her real-time location remotely
-  
+* For caregivers: <br>
+Check patient’sprogress remotely <br>
+Check his/her real-time location remotely <br>
+ 
 
-2) For patients:
-Reminding them with daily issues, such as taking pills and drinking water
-Providing them a emergency button to contact caregivers immediately
-  
+* For patients: <br>
+Reminding them with daily issues, such as taking pills and drinking water <br>
+Providing them a emergency button to contact caregivers immediately <br>
   
-3) Fully functional login system
-Based on MySQL
-Login once
+* Fully functional login system <br>
+Based on MySQL <br>
+Login once <br>
   
 
-4) Daily issue reminding system
-Storage:      SQLite database 
-Notification: Local NotificatioCloud Sync:   MySQL for remotely checking
-Patients would be reminded with daily routine, and completion progress could be checked by caregivers.
-Used SQLite locally to ensure robust services and database consistency under poor network connectivity.
-  
-5) Memo system
+* Daily issue reminding system  <br>
+Storage:      SQLite database  <br>
+Notification: Local NotificatioCloud Sync:   MySQL for remotely checking <br>
+
+Patients would be reminded with daily routine, and completion progress could be checked by caregivers. <br>
+Used SQLite locally to ensure robust services and database consistency under poor network connectivity. <br>
+  
+* Memo system <br>
    
-6) Location system
-   
-7) Emergency Alarm
-Used APNs to enable remote instant communication (notification) under urgent cases.
+* Location system <br>
+   
+* Emergency Alarm <br>
+Used APNs to enable remote instant communication (notification) under urgent cases. <br>
