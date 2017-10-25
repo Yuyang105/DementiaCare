@@ -37,8 +37,7 @@ Login once
 
 4) Daily issue reminding system
 Storage:      SQLite database 
-Notification: Local Notification
-Cloud Sync:   MySQL for remotely checking
+Notification: Local NotificatioCloud Sync:   MySQL for remotely checking
 Patients would be reminded with daily routine, and completion progress could be checked by caregivers.
 Used SQLite locally to ensure robust services and database consistency under poor network connectivity.
   
