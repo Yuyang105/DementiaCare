@@ -13,9 +13,9 @@
 
 ## Aim and Objectives
 
-Develop an iOS application to:
-1) enable early-stage dementia patients to live alone at home 
-2) help people to look after early-stage dementia patients
+Develop an iOS application to:<br/>
+1) enable early-stage dementia patients to live alone at home <br>
+2) help people to look after early-stage dementia patients<br>
 
 
 ## Functionalities
