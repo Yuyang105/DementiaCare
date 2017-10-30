@@ -1,6 +1,6 @@
-# DementiaCare - 2016 top rated UoL fianl year project
+# Dementia Care
 
-## Background
+## Background - 2016 top rated UoL fianl year project
 
 · A broad category of brain diseases 
 
