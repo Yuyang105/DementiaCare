@@ -1,4 +1,4 @@
-# DementiaCare
+# DementiaCare - 2016 top rated UoL fianl year project
 
 ## Background
 
