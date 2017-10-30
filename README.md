@@ -1,6 +1,6 @@
 # Dementia Care
 
-## Background - 2016 top rated UoL fianl year project
+## Background - 2016 Top-rated UoL Fianl Year Project
 
 · A broad category of brain diseases 
 
